@@ -20,6 +20,10 @@ const quotes =[
     quote:' Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking.'
    },
    {
+    name:'Vivyanne',
+    quote:' Live your life. nobody cares'
+   },
+   {
     name:'Eleanor Roosevelt',
     quote: 'If life were predictable it would cease to be life, and be without flavor.'
    },
